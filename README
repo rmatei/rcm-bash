@@ -1,0 +1,6 @@
+@rmatei's bash configs
+
+Installation:
+cd ~
+git clone git@github.com:rmatei/rcm-bash.git
+~/rcm-bash/install.sh
