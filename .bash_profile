@@ -15,7 +15,7 @@ alias gl='git pull'
 alias gp='qgit push'
 alias ga='git add .'
 alias gc='git commit -v'
-alias gs='git diff'
+alias gd='git diff'
 
 alias aliases='vim ~/.bash_profile'
 alias reload='source ~/.bash_profile'
